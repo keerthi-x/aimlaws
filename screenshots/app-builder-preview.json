@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Loom",
+      "hasCanvas": true,
+      "bodyTextLen": 523,
+      "bodyTextHash": "b33f8d413d41f4315fd6c7f200f7137befa6b8378d966f763bdcf3136942f8e3",
+      "bodyTextPrefix": "Loom Identity that holds through occlusion 0 recoveries Detector",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Loom",
+      "hasCanvas": true,
+      "bodyTextLen": 166,
+      "bodyTextHash": "91a46a45c96e1d25ded813b1faf6d137a20a3b17b8f05579fa4698db553fd769",
+      "bodyTextPrefix": "Loom Identity that holds through occlusion Detector 0 Det 0 Live",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
